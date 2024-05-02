@@ -11,7 +11,7 @@ class GradeGUI:
         """
         self.master = master
         master.title("Grade Calculator")
-        master.geometry("350x400")  # Increased window size
+        master.geometry("350x400")
         master.resizable(False, False)
 
         self.student_entries = []  # List[Entry]
