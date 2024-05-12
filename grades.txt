@@ -31,3 +31,29 @@ Attempt 1,89,A
 Highest Score,89,
 Average Score,89.0,
 
+Student: Fred,Number of Attempts: 3
+Attempt 1,50,D
+Attempt 2,50,D
+Attempt 3,90,A
+Highest Score,90,
+Average Score,63.33,
+
+Student: doug,Number of Attempts: 2
+Attempt 1,12,A
+Attempt 2,12,A
+Highest Score,12,
+Average Score,12.0,
+
+Student: Harry,Number of Attempts: 2
+Attempt 1,50,C
+Attempt 2,80,A
+Highest Score,80,
+Average Score,65.0,
+
+Student: Julia,Number of Attempts: 3
+Attempt 1,40,F
+Attempt 2,89,A
+Attempt 3,90,A
+Highest Score,90,
+Average Score,73.0,
+
