@@ -1,0 +1,33 @@
+
+
+Student: fegsd,Number of Attempts: 3
+Attempt 1,30,B
+Attempt 2,45,A
+Attempt 3,45,A
+Highest Score,45,
+Average Score,40.0,
+
+Student: fe,Number of Attempts: 2
+Attempt 1,50,D
+Attempt 2,90,A
+Highest Score,90,
+Average Score,70.0,
+
+Student: jeff,Number of Attempts: 3
+Attempt 1,50,D
+Attempt 2,50,D
+Attempt 3,90,A
+Highest Score,90,
+Average Score,63.33,
+
+Student: solly,Number of Attempts: 2
+Attempt 1,50,D
+Attempt 2,90,A
+Highest Score,90,
+Average Score,70.0,
+
+Student: wes,Number of Attempts: 1
+Attempt 1,89,A
+Highest Score,89,
+Average Score,89.0,
+

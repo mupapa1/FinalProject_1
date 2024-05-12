@@ -99,7 +99,7 @@ class GradeGUI:
         attempts = self.attempts_entry.get().strip()
 
         # Write to CSV
-        with open('grades.csv', mode='a', newline='') as file:
+        with open('grades.txt', mode='a', newline='') as file:
             writer = csv.writer(file)
             writer.writerow([f'Student: {student_name}', f'Number of Attempts: {attempts}'])
             for i, (score, grade) in enumerate(results, start=1):
@@ -108,7 +108,7 @@ class GradeGUI:
             writer.writerow(['Average Score', avg_score, ''])
             writer.writerow([])  # Empty row for separation
 
-        messagebox.showinfo("Grades Calculated", "Grades have been calculated and saved to grades.csv.")
+        messagebox.showinfo("Grades Calculated", "Grades have been calculated and saved to grades.txt.")
 
     def display_error_message(self, message):
         """Display error message on the GUI."""
